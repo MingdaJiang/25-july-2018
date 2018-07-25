@@ -1,4 +1,4 @@
-.: The current folder.
+.: The current folder.  
 ..: The parent of the current folder.
 
 `cd`: Change directory to home.  
